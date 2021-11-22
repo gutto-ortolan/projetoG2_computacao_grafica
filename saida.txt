@@ -1,0 +1,215 @@
+positivas\hard_hat_workers1.png 1 116 229 24 21
+positivas\hard_hat_workers10.png 1 215 63 44 49
+positivas\hard_hat_workers100.png 1 118 72 106 91
+positivas\hard_hat_workers102.png 2 129 102 95 61 129 102 120 91
+positivas\hard_hat_workers103.png 2 136 196 35 45 248 129 48 34
+positivas\hard_hat_workers105.png 1 228 163 68 43
+positivas\hard_hat_workers106.png 1 228 69 108 75
+positivas\hard_hat_workers107.png 2 216 181 32 36 248 187 49 30
+positivas\hard_hat_workers108.png 2 103 167 80 43 244 177 64 51
+positivas\hard_hat_workers109.png 3 299 106 88 78 78 140 62 38 28 146 23 31
+positivas\hard_hat_workers11.png 1 291 215 53 62
+positivas\hard_hat_workers110.png 1 212 201 47 42
+positivas\hard_hat_workers111.png 1 271 76 85 96
+positivas\hard_hat_workers112.png 1 86 145 68 45
+positivas\hard_hat_workers113.png 1 338 196 58 46
+positivas\hard_hat_workers114.png 5 162 138 87 68 281 108 96 55 108 96 69 83 49 94 57 66 26 179 94 82
+positivas\hard_hat_workers115.png 1 163 118 25 21
+positivas\hard_hat_workers116.png 2 164 123 51 34 182 173 17 22
+positivas\hard_hat_workers117.png 2 169 20 57 52 164 109 72 48
+positivas\hard_hat_workers118.png 2 318 84 83 63 322 3 72 45
+positivas\hard_hat_workers119.png 2 84 1 41 35 215 137 44 40
+positivas\hard_hat_workers12.png 1 295 181 41 25
+positivas\hard_hat_workers120.png 2 125 121 50 60 238 104 73 74
+positivas\hard_hat_workers121.png 7 175 149 69 54 221 79 37 47 325 98 59 45 65 139 46 30 391 88 20 43 218 17 34 35 328 6 52 39
+positivas\hard_hat_workers122.png 9 151 146 33 24 127 145 57 25 127 145 26 25 192 153 26 28 242 150 25 20 296 154 24 21 309 146 32 21 390 149 22 20 49 256 27 22
+positivas\hard_hat_workers123.png 2 192 93 65 47 257 45 54 45
+positivas\hard_hat_workers124.png 1 161 247 34 32
+positivas\hard_hat_workers125.png 1 311 191 60 48
+positivas\hard_hat_workers126.png 5 118 192 35 38 229 92 52 40 190 94 19 23 272 91 23 15 174 205 34 43
+positivas\hard_hat_workers127.png 2 246 100 49 48 295 113 47 45
+positivas\hard_hat_workers128.png 1 205 183 16 11
+positivas\hard_hat_workers129.png 2 281 93 56 45 287 7 54 32
+positivas\hard_hat_workers13.png 4 174 136 26 20 244 141 31 23 161 220 27 18 118 191 17 17
+positivas\hard_hat_workers130.png 3 100 103 71 72 187 100 50 54 254 96 72 55
+positivas\hard_hat_workers131.png 6 19 99 45 30 145 124 22 31 184 133 31 23 241 129 19 27 278 133 21 21 306 118 27 23
+positivas\hard_hat_workers132.png 3 143 95 67 49 207 42 2 5 141 3 68 39
+positivas\hard_hat_workers133.png 1 226 186 24 28
+positivas\hard_hat_workers134.png 1 317 138 35 27
+positivas\hard_hat_workers135.png 3 91 132 71 58 183 136 72 41 289 66 87 54
+positivas\hard_hat_workers136.png 2 61 134 58 36 247 137 58 40
+positivas\hard_hat_workers137.png 3 254 131 60 50 371 130 38 51 111 168 50 32
+positivas\hard_hat_workers138.png 1 322 173 62 59
+positivas\hard_hat_workers139.png 2 158 196 25 16 201 200 11 18
+positivas\hard_hat_workers14.png 2 106 99 31 23 109 57 31 25
+positivas\hard_hat_workers140.png 1 98 256 18 11
+positivas\hard_hat_workers141.png 2 154 117 21 21 199 180 43 32
+positivas\hard_hat_workers142.png 5 60 175 35 21 190 171 28 19 115 178 35 17 251 163 42 19 331 145 48 25
+positivas\hard_hat_workers143.png 3 131 249 28 23 111 251 23 25 258 101 15 17
+positivas\hard_hat_workers144.png 4 26 147 38 35 153 154 26 21 193 156 24 21 264 143 34 30
+positivas\hard_hat_workers145.png 0
+positivas\hard_hat_workers146.png 1 274 153 54 51
+positivas\hard_hat_workers147.png 1 293 151 82 57
+positivas\hard_hat_workers148.png 4 119 133 28 28 146 138 18 24 185 138 44 17 273 142 29 21
+positivas\hard_hat_workers149.png 0
+positivas\hard_hat_workers15.png 2 64 82 56 46 313 88 52 31
+positivas\hard_hat_workers150.png 2 139 131 21 20 251 140 27 22
+positivas\hard_hat_workers151.png 3 307 162 45 20 367 159 40 30 116 183 35 24
+positivas\hard_hat_workers152.png 5 59 210 45 28 127 218 38 26 193 198 43 23 253 205 44 22 311 213 37 18
+positivas\hard_hat_workers153.png 3 1 161 44 51 191 167 42 41 285 164 66 33
+positivas\hard_hat_workers154.png 3 105 58 46 34 260 151 19 23 276 130 28 19
+positivas\hard_hat_workers155.png 4 47 91 84 48 181 145 51 32 230 149 31 28 276 87 85 43
+positivas\hard_hat_workers156.png 1 209 173 45 25
+positivas\hard_hat_workers157.png 1 298 176 55 46
+positivas\hard_hat_workers158.png 1 249 104 75 52
+positivas\hard_hat_workers159.png 1 167 120 29 16
+positivas\hard_hat_workers16.png 1 232 219 41 30
+positivas\hard_hat_workers160.png 1 210 125 37 36
+positivas\hard_hat_workers161.png 1 111 126 40 42
+positivas\hard_hat_workers162.png 1 75 184 29 24
+positivas\hard_hat_workers163.png 1 177 99 40 33
+positivas\hard_hat_workers164.png 1 141 132 32 40
+positivas\hard_hat_workers165.png 1 84 118 32 19
+positivas\hard_hat_workers166.png 1 83 86 142 71
+positivas\hard_hat_workers167.png 1 217 154 36 20
+positivas\hard_hat_workers168.png 1 177 108 52 28
+positivas\hard_hat_workers169.png 1 350 167 50 30
+positivas\hard_hat_workers17.png 1 331 97 72 49
+positivas\hard_hat_workers171.png 1 159 89 32 26
+positivas\hard_hat_workers173.png 1 166 123 33 28
+positivas\hard_hat_workers174.png 1 237 52 57 39
+positivas\hard_hat_workers175.png 1 229 60 97 35
+positivas\hard_hat_workers176.png 1 149 123 57 40
+positivas\hard_hat_workers177.png 1 138 120 26 27
+positivas\hard_hat_workers178.png 1 97 69 85 64
+positivas\hard_hat_workers179.png 1 280 145 37 22
+positivas\hard_hat_workers18.png 1 224 133 51 32
+positivas\hard_hat_workers180.png 1 187 83 48 24
+positivas\hard_hat_workers181.png 1 272 82 96 52
+positivas\hard_hat_workers182.png 1 102 237 29 16
+positivas\hard_hat_workers183.png 1 287 114 80 58
+positivas\hard_hat_workers184.png 1 17 55 99 50
+positivas\hard_hat_workers185.png 1 180 163 79 40
+positivas\hard_hat_workers186.png 1 110 137 37 40
+positivas\hard_hat_workers187.png 1 258 142 28 27
+positivas\hard_hat_workers188.png 1 124 199 18 24
+positivas\hard_hat_workers189.png 1 201 110 80 30
+positivas\hard_hat_workers19.png 1 177 75 58 56
+positivas\hard_hat_workers190.png 1 128 97 40 34
+positivas\hard_hat_workers191.png 1 224 127 66 26
+positivas\hard_hat_workers192.png 1 301 218 34 26
+positivas\hard_hat_workers193.png 1 164 144 36 31
+positivas\hard_hat_workers194.png 1 297 109 82 53
+positivas\hard_hat_workers195.png 1 126 113 45 39
+positivas\hard_hat_workers196.png 1 89 194 15 12
+positivas\hard_hat_workers197.png 1 128 33 62 47
+positivas\hard_hat_workers198.png 1 250 128 47 26
+positivas\hard_hat_workers199.png 0
+positivas\hard_hat_workers2.png 0
+positivas\hard_hat_workers20.png 1 86 191 52 35
+positivas\hard_hat_workers200.png 1 88 97 29 28
+positivas\hard_hat_workers201.png 1 255 90 58 36
+positivas\hard_hat_workers203.png 1 79 176 56 39
+positivas\hard_hat_workers204.png 1 215 115 64 52
+positivas\hard_hat_workers206.png 1 208 100 38 34
+positivas\hard_hat_workers208.png 1 106 61 57 37
+positivas\hard_hat_workers209.png 1 194 72 60 34
+positivas\hard_hat_workers21.png 1 89 147 12 12
+positivas\hard_hat_workers210.png 1 127 123 58 45
+positivas\hard_hat_workers211.png 1 166 131 56 39
+positivas\hard_hat_workers213.png 1 264 201 32 17
+positivas\hard_hat_workers214.png 1 202 64 37 26
+positivas\hard_hat_workers215.png 1 235 143 39 25
+positivas\hard_hat_workers216.png 1 44 109 45 41
+positivas\hard_hat_workers217.png 1 218 108 76 109
+positivas\hard_hat_workers218.png 1 133 123 63 50
+positivas\hard_hat_workers219.png 1 119 84 70 37
+positivas\hard_hat_workers22.png 1 119 147 56 53
+positivas\hard_hat_workers220.png 1 95 174 26 16
+positivas\hard_hat_workers221.png 1 228 101 68 31
+positivas\hard_hat_workers222.png 1 207 93 136 82
+positivas\hard_hat_workers223.png 1 142 89 88 82
+positivas\hard_hat_workers224.png 1 185 51 103 72
+positivas\hard_hat_workers225.png 1 181 171 46 30
+positivas\hard_hat_workers226.png 1 128 225 42 28
+positivas\hard_hat_workers227.png 1 64 140 52 37
+positivas\hard_hat_workers23.png 1 101 34 127 109
+positivas\hard_hat_workers24.png 1 227 177 24 20
+positivas\hard_hat_workers25.png 1 43 194 28 18
+positivas\hard_hat_workers26.png 1 316 205 27 23
+positivas\hard_hat_workers27.png 1 239 132 28 24
+positivas\hard_hat_workers28.png 1 191 141 71 59
+positivas\hard_hat_workers29.png 1 261 151 33 31
+positivas\hard_hat_workers3.png 1 193 145 36 33
+positivas\hard_hat_workers30.png 1 181 13 57 45
+positivas\hard_hat_workers31.png 1 175 188 48 52
+positivas\hard_hat_workers32.png 0
+positivas\hard_hat_workers33.png 1 155 122 14 20
+positivas\hard_hat_workers34.png 1 87 158 44 42
+positivas\hard_hat_workers35.png 1 110 90 45 41
+positivas\hard_hat_workers36.png 1 146 119 61 40
+positivas\hard_hat_workers37.png 1 189 206 42 39
+positivas\hard_hat_workers38.png 1 221 215 39 35
+positivas\hard_hat_workers39.png 1 117 126 35 34
+positivas\hard_hat_workers4.png 1 91 140 63 44
+positivas\hard_hat_workers40.png 1 117 267 16 9
+positivas\hard_hat_workers41.png 1 253 69 91 69
+positivas\hard_hat_workers42.png 1 70 105 81 60
+positivas\hard_hat_workers44.png 1 86 141 20 19
+positivas\hard_hat_workers45.png 1 62 116 45 36
+positivas\hard_hat_workers46.png 1 154 92 110 51
+positivas\hard_hat_workers47.png 1 192 98 93 58
+positivas\hard_hat_workers48.png 1 156 94 27 24
+positivas\hard_hat_workers49.png 1 222 126 36 18
+positivas\hard_hat_workers5.png 1 90 118 24 24
+positivas\hard_hat_workers50.png 1 155 193 38 14
+positivas\hard_hat_workers51.png 1 126 222 60 45
+positivas\hard_hat_workers52.png 1 158 163 22 25
+positivas\hard_hat_workers53.png 0
+positivas\hard_hat_workers54.png 0
+positivas\hard_hat_workers55.png 1 353 181 35 21
+positivas\hard_hat_workers56.png 1 86 96 88 57
+positivas\hard_hat_workers57.png 1 171 92 56 29
+positivas\hard_hat_workers58.png 1 166 92 37 36
+positivas\hard_hat_workers59.png 1 20 4 252 129
+positivas\hard_hat_workers60.png 1 319 183 68 27
+positivas\hard_hat_workers61.png 1 143 110 70 37
+positivas\hard_hat_workers62.png 1 195 154 49 53
+positivas\hard_hat_workers63.png 1 252 83 74 47
+positivas\hard_hat_workers64.png 1 161 104 115 79
+positivas\hard_hat_workers65.png 1 116 91 84 59
+positivas\hard_hat_workers66.png 1 286 164 43 28
+positivas\hard_hat_workers67.png 1 168 166 37 38
+positivas\hard_hat_workers68.png 1 56 177 93 62
+positivas\hard_hat_workers69.png 0
+positivas\hard_hat_workers7.png 1 357 95 53 38
+positivas\hard_hat_workers71.png 1 219 88 40 27
+positivas\hard_hat_workers72.png 1 100 170 41 28
+positivas\hard_hat_workers73.png 1 155 157 19 24
+positivas\hard_hat_workers74.png 1 312 72 74 50
+positivas\hard_hat_workers75.png 1 171 167 49 39
+positivas\hard_hat_workers76.png 1 133 83 51 60
+positivas\hard_hat_workers77.png 0
+positivas\hard_hat_workers78.png 1 262 242 20 22
+positivas\hard_hat_workers79.png 1 193 130 29 27
+positivas\hard_hat_workers80.png 0
+positivas\hard_hat_workers81.png 1 58 158 68 52
+positivas\hard_hat_workers82.png 0
+positivas\hard_hat_workers83.png 1 327 142 55 32
+positivas\hard_hat_workers84.png 1 203 102 35 25
+positivas\hard_hat_workers85.png 1 46 84 106 65
+positivas\hard_hat_workers86.png 1 246 97 29 23
+positivas\hard_hat_workers87.png 1 104 109 50 40
+positivas\hard_hat_workers88.png 1 193 100 75 63
+positivas\hard_hat_workers89.png 1 114 173 53 40
+positivas\hard_hat_workers9.png 1 258 74 41 39
+positivas\hard_hat_workers90.png 1 178 179 44 32
+positivas\hard_hat_workers91.png 1 177 147 81 77
+positivas\hard_hat_workers92.png 1 191 91 51 53
+positivas\hard_hat_workers93.png 1 141 133 28 28
+positivas\hard_hat_workers94.png 1 233 114 86 63
+positivas\hard_hat_workers95.png 1 134 101 54 54
+positivas\hard_hat_workers96.png 1 79 177 26 27
+positivas\hard_hat_workers97.png 1 123 110 30 29
+positivas\hard_hat_workers98.png 1 272 145 48 55
+positivas\hard_hat_workers99.png 1 158 153 60 44
